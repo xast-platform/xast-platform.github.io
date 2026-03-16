@@ -19,27 +19,19 @@ weight = 10
 
 # List
 [[extra.list]]
-title = "XastGE"
-content = 'Get A+ scores on <a href="https://observatory.mozilla.org/analyze/adidoks.org">Mozilla Observatory</a> out of the box. Easily change the default Security Headers to suit your needs.'
+title = "Xast"
+content = 'Functional immutable ECS-driven programming language, compiled to C using powerful Flecs library. Can be used both as standalone and embedded.'
 
 [[extra.list]]
 title = "Xide"
-content = 'Get 100 scores on <a href="https://googlechrome.github.io/lighthouse/viewer/?gist=7731347bb8ce999eff7428a8e763b637">Google Lighthouse</a> by default. Doks removes unused css, prefetches links, and lazy loads images.'
+content = 'Modular IDE with top-level Xast and Rust support, built with Java Swing and FlatLaf with extensible plugin system.'
 
 [[extra.list]]
-title = "Xast Plugins for Xide"
-content = "Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the SEO settings to your liking."
-
-[[extra.list]]
-title = "xastc"
-content = "Search your Doks site with FlexSearch. Easily customize index settings and search options to your liking."
-
-[[extra.list]]
-title = "xastdoc"
-content = "Build pages with a landing page, blog, or documentation layout. Add custom sections and components to suit your needs."
+title = "XastGE"
+content = "Xast and Rust game engine, built with WGPU and Flecs, with multiple game prototyping plugins for Xide."
 
 [[extra.list]]
 title = "xbuild"
-content = "Switch to a low-light UI with the click of a button. Change colors with variables to match your branding."
+content = "Simple and universal build script system made with Lua for cross platform deployment of different projects."
 
 +++

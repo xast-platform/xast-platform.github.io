@@ -1,6 +1,5 @@
 +++
-title = "Docs"
-description = "The documents of the AdiDoks theme."
+title = "Xast Platform Documentation"
 sort_by = "weight"
 weight = 1
 template = "docs/section.html"

@@ -12,7 +12,7 @@ favicon = "/favicon.svg"
 author = "Xast Platform Organization"
 github = "https://github.com/xast-platform"
 ganalytics = "" 
-is_netlify = true
+is_netlify = false
 language_code = "en-US"
 
 theme_color = "#fff"

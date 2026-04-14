@@ -1,6 +1,6 @@
 +++
-title = "Contributing"
-description = "Find out how to contribute to AdiDoks."
+title = "XBuild"
+description = "XBuild software build system framework in Lua."
 template = "docs/section.html"
 sort_by = "weight"
 weight = 4

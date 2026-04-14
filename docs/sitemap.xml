@@ -7,31 +7,23 @@
         <loc>https://xast-platform.github.io/docs/</loc>
     </url>
     <url>
-        <loc>https://xast-platform.github.io/docs/contributing/</loc>
-    </url>
-    <url>
-        <loc>https://xast-platform.github.io/docs/contributing/code-of-conduct/</loc>
-        <lastmod>2021-05-01T18:20:00+00:00</lastmod>
-    </url>
-    <url>
-        <loc>https://xast-platform.github.io/docs/contributing/how-to-contribute/</loc>
-        <lastmod>2021-05-01T18:10:00+00:00</lastmod>
-    </url>
-    <url>
-        <loc>https://xast-platform.github.io/docs/getting-started/</loc>
-    </url>
-    <url>
-        <loc>https://xast-platform.github.io/docs/getting-started/introduction/</loc>
-        <lastmod>2021-05-01T08:00:00+00:00</lastmod>
-    </url>
-    <url>
-        <loc>https://xast-platform.github.io/docs/getting-started/quick-start/</loc>
+        <loc>https://xast-platform.github.io/docs/quick-start/</loc>
         <lastmod>2021-05-01T08:20:00+00:00</lastmod>
     </url>
     <url>
-        <loc>https://xast-platform.github.io/docs/help/</loc>
+        <loc>https://xast-platform.github.io/docs/xast/</loc>
     </url>
     <url>
-        <loc>https://xast-platform.github.io/docs/help/faq/</loc>
+        <loc>https://xast-platform.github.io/docs/xastge/</loc>
+    </url>
+    <url>
+        <loc>https://xast-platform.github.io/docs/xbuild/</loc>
+    </url>
+    <url>
+        <loc>https://xast-platform.github.io/docs/xide/</loc>
+    </url>
+    <url>
+        <loc>https://xast-platform.github.io/docs/xide/page/</loc>
+        <lastmod>2021-05-01T08:20:00+00:00</lastmod>
     </url>
 </urlset>
